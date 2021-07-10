@@ -1,3 +1,4 @@
+
 /*******************************************************************************
 * Teclado Matricial 16 Teclas : Primeiros Passos (v1.0)
 *
@@ -18,9 +19,9 @@
 * 5 - "#3" Cadastra a senha 3 
 * Comando = 0, checa  a senha, Comando = 1 Cadastra senha 1,Comando = 2 Cadastra senha 2,Comando = 3 Cadastra senha 3, Comando = 4 Cadastra senha 4
 * Comando = 50 
-* 
+*  Autor: Marcos Gerling.
 *******************************************************************************/
-
+#include <Arduino.h>
 #include <Keypad.h> // Biblioteca do codigo
 #include <EEPROM.h> // Bilioteca memória Eprrom
 

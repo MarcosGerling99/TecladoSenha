@@ -8,6 +8,12 @@
 * it under the terms of the GNU General Public License as published by
 * the Free Software Foundation, either version 3 of the License, or
 * (at your option) any later version (<https://www.gnu.org/licenses/>).
+
+Autor da Biblioteca
+|| @file Keypad.cpp
+|| @version 3.1
+|| @author Mark Stanley, Alexander Brevig
+|| @contact mstanley@technologist.com, alexanderbrevig@gmail.com
 *******************************************************************************/
 
 /*******************************************************************************
